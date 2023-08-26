@@ -1,0 +1,23 @@
+form
+{
+    display: flex;
+    flex-direction: column;
+}
+
+form div
+{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+
+textarea
+{
+    height: 150px;
+}
+
+button
+{
+    justify-content: left;
+    width: 5%;
+}
